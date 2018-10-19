@@ -1,0 +1,2 @@
+The mean of the inputted values is: 9.76
+The median of the inputted values is: 10.65
